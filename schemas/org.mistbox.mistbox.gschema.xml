@@ -1,0 +1,11 @@
+<schemalist>
+	<schema id="org.mistbox.mistbox" path="/org/mistbox/mistbox/" gettext-domain="mistbox">
+		<key name="greeting" type="s">
+			<default l10n="messages">"Hello, earthlings"</default>
+			<summary>A greeting</summary>
+			<description>
+				Greeting of the invading martians
+			</description>
+		</key>
+	</schema>
+</schemalist>
